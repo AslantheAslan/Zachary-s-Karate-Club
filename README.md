@@ -11,4 +11,4 @@ I have just created these datasets and read them from txt. I have been applying 
 
 As of January 4th, I have visualized the graph right after I applied maximum-flow minimum-cut algorithm. I have used networkx for graph generation and visualization.
 
-KarateClubAfterMinCut.png file contains the final graph after the network flow algorithm was applied.
+KarateClubAfterMinCut.png file contains the final graph after the network flow algorithm was applied. Please note that, node number 0 stands for Mr. Hi and node number 33 stands for the Officers'.
