@@ -7,4 +7,8 @@ nodes.txt file contains the nodes from 1 to 34
 
 MaxFlow.py is nothing but an implementation of Ford-Fulkerson Algorithm onto my Zachary's Karate Club dataset.
 
-For now, I have just created these datasets and read them from txt. I will be applying some algorithms like Ford-Fulkerson (https://en.wikipedia.org/wiki/Ford%E2%80%93Fulkerson_algorithm), and MaxFlow (https://gist.github.com/bigsnarfdude/61c774506a9aa9938a933bc9189f74f0) to understand how to cope with graph-based data.
+I have just created these datasets and read them from txt. I have been applying some algorithms like Ford-Fulkerson (https://en.wikipedia.org/wiki/Ford%E2%80%93Fulkerson_algorithm), and MaxFlow (https://gist.github.com/bigsnarfdude/61c774506a9aa9938a933bc9189f74f0) to understand how to cope with graph-based data.
+
+As of January 4th, I have visualized the graph right after I applied maximum-flow minimum-cut algorithm. I have used networkx for graph generation and visualization.
+
+KarateClubAfterMinCut.png file contains the final graph after the network flow algorithm was applied.
