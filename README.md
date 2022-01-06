@@ -1,5 +1,5 @@
 # Zachary-s-Karate-Club
-This repo includes my trial to create the infamous Zachary's Karate Club dataset and apply some algorithms to understand how to cluster graph-shaped data.
+This repo includes my trial to create the famous Zachary's Karate Club dataset and apply some algorithms to understand how to cluster graph-shaped data.
 
 edges.txt file includes the connections inbetween nodes in the Karate Club.
 capacities.txt file includes the weights of connections (edges) for every single connection
