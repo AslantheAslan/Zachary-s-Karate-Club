@@ -14,3 +14,5 @@ As of January 4th, I have visualized the graph right after I applied maximum-flo
 KarateClubAfterMinCut.png file contains the final graph after the network flow algorithm was applied. Please note that, node number 0 stands for Mr. Hi and node number 33 stands for the Officers'.
 
 %100 accuracy has been achieved by harmonic function classifier to cluster the nodes in the network.
+
+Graph Convolutional Network and Graph Attention Network methods have been utilized from "https://github.com/deepmind/educational/blob/master/colabs/summer_schools/intro_to_graph_nets_tutorial_with_jraph.ipynb" which was created by the one and only DeepMind. If you are interested with these topics, I strongly suggest you to follow Petar Velickovic, Lisa Wang, and Nikola Jovanovic from DeepMind.
